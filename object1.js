@@ -55,6 +55,6 @@ truck.drive(300);
 motorcycle.drive(50);
 
 // Print vehicle details by using getDetails method
-console.log(car.getDetails());       // Outputs: 2020 Toyota Corolla (Car) - Mileage: 150 miles
-console.log(truck.getDetails());     // Outputs: 2018 Ford F-150 (Truck) - Mileage: 300 miles
-console.log(motorcycle.getDetails()); // Outputs: 2022 Harley-Davidson Sportster (Motorcycle) - Mileage: 50 miles
+console.log(car.getDetails());       // Outputs: 2018 Toyota Corolla (Car) - Mileage: 150 miles
+console.log(truck.getDetails());     // Outputs: 2007 Ford F-150 (Truck) - Mileage: 300 miles
+console.log(motorcycle.getDetails()); // Outputs: 2021 Harley-Davidson Sportster (Motorcycle) - Mileage: 50 miles
